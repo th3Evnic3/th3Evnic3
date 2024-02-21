@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Marja Eunice Herrera Jiménez</h1>
-<h3 align="center">Una apasionada desarrolladora frontend de México India</h3>
+<h3 align="center">Una apasionada desarrolladora frontend de México </h3>
 
 - 🤝 Estoy buscando ayuda con **gmail**
 
