@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, soy Marja Eunice Herrera Jiménez</h1>
-<h3 align="center">Una apasionada desarrolladora frontend de México </h3>
+<h3 align="center">Una apasionada desarrolladora de México </h3>
 
 - 🤝 Estoy buscando ayuda con **gmail**
 
 - 📫 Cómo contactarme **herreraeunice2007@gmail**
 
-- ⚡ Dato curioso **creo que soy muy lenta**
+- ⚡ Dato curioso **creo que soy muy testaruda, tal vez sea por que pienso mucho**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align ="left">
